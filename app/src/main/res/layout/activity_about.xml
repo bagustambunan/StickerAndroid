@@ -55,7 +55,6 @@
             android:id="@+id/footnote"
             style="@style/InfoButtonStyle"
             app:drawableTint="@color/colorAccent"
-            android:visibility="gone"
             android:text="Made with ❤️ by @bagustambunan" />
 
     </LinearLayout>
