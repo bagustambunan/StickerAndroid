@@ -1,0 +1,1 @@
+# Customised WASticker App for Android by @bagustambunan
