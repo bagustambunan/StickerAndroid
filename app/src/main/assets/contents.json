@@ -1,0 +1,231 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Cuppy",
+      "character": "Cuppy",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "pack_emojis": "❤️",
+      "stickers": [
+        {
+          "image_file": "01_Cuppy_smile.webp",
+          "emojis": ["☕", "🙂", "😀"]
+        },
+        {
+          "image_file": "02_Cuppy_lol.webp",
+          "emojis": ["☕", "😄", "😀"]
+        },
+        {
+          "image_file": "03_Cuppy_rofl.webp",
+          "emojis": ["☕", "😆", "😂"]
+        },
+        {
+          "image_file": "04_Cuppy_sad.webp",
+          "emojis": ["☕", "😩", "😰"]
+        },
+        {
+          "image_file": "05_Cuppy_cry.webp",
+          "emojis": ["☕", "😭", "💧"]
+        },
+        {
+          "image_file": "06_Cuppy_love.webp",
+          "emojis": ["☕", "😍", "♥"]
+        },
+        {
+          "image_file": "07_Cuppy_hate.webp",
+          "emojis": ["☕", "💔", "👎"]
+        },
+        {
+          "image_file": "08_Cuppy_lovewithmug.webp",
+          "emojis": ["☕", "😍", "💑"]
+        },
+        {
+          "image_file": "09_Cuppy_lovewithcookie.webp",
+          "emojis": ["☕", "😘", "🍪"]
+        },
+        {
+          "image_file": "10_Cuppy_hmm.webp",
+          "emojis": ["☕", "🤔", "😐"]
+        },
+        {
+          "image_file": "11_Cuppy_upset.webp",
+          "emojis": ["☕", "😱", "😵"]
+        },
+        {
+          "image_file": "12_Cuppy_angry.webp",
+          "emojis": ["☕", "😡", "😠"]
+        },
+        {
+          "image_file": "13_Cuppy_curious.webp",
+          "emojis": ["☕", "❓", "🤔"]
+        },
+        {
+          "image_file": "14_Cuppy_weird.webp",
+          "emojis": ["☕", "🌈", "😜"]
+        },
+        {
+          "image_file": "15_Cuppy_bluescreen.webp",
+          "emojis": ["☕", "💻", "😩"]
+        },
+        {
+          "image_file": "16_Cuppy_angry.webp",
+          "emojis": ["☕", "😡", "😤"]
+        },
+        {
+          "image_file": "17_Cuppy_tired.webp",
+          "emojis": ["☕", "😩", "😨"]
+        },
+        {
+          "image_file": "18_Cuppy_workhard.webp",
+          "emojis": ["☕", "😔", "😨"]
+        },
+        {
+          "image_file": "19_Cuppy_shine.webp",
+          "emojis": ["☕", "🎉", "✨"]
+        },
+        {
+          "image_file": "20_Cuppy_disgusting.webp",
+          "emojis": ["☕", "🤮", "👎"]
+        },
+        {
+          "image_file": "21_Cuppy_hi.webp",
+          "emojis": ["☕", "🖐", "🙋"]
+        },
+        {
+          "image_file": "22_Cuppy_bye.webp",
+          "emojis": ["☕", "🖐", "👋"]
+        },
+        {
+          "image_file": "23_Cuppy_greentea.webp",
+          "emojis": ["🍵", "😌"]
+        },
+        {
+          "image_file": "24_Cuppy_phone.webp",
+          "emojis": ["📱", "😦"]
+        },
+        {
+          "image_file": "25_Cuppy_battery.webp",
+          "emojis": ["🔋", "😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Together While Apart",
+      "character": "TogetherAtHome",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "pack_emojis": "❤️",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "01_SendingLove.webp",
+          "emojis": ["💕", "😘", "❤️"]
+        },
+        {
+          "image_file": "02_WellDoThisTogether.webp",
+          "emojis": ["✊", "💪", "🙏"]
+        },
+        {
+          "image_file": "03_Heart.webp",
+          "emojis": ["❤️", "😘", "💕"]
+        },
+        {
+          "image_file": "04_AirHighFive.webp",
+          "emojis": ["🖐", "🙌", "✋"]
+        },
+        {
+          "image_file": "05_GroupVideoCalling.webp",
+          "emojis": ["📱", "👯", "👋"]
+        },
+        {
+          "image_file": "06_StayConnected.webp",
+          "emojis": ["📱", "🙋‍♀", "🙋‍♂"]
+        },
+        {
+          "image_file": "07_OK.webp",
+          "emojis": ["👍", "👌", "🙂"]
+        },
+        {
+          "image_file": "08_AreYouOK.webp",
+          "emojis": ["👋", "❓", "📱"]
+        },
+        {
+          "image_file": "09_StayingHomeMug.webp",
+          "emojis": ["☕", "🍵", "🏠"]
+        },
+        {
+          "image_file": "10_WorkingFromBed.webp",
+          "emojis": ["👩‍💻", "👨‍💻", "🛏"]
+        },
+        {
+          "image_file": "11_StayCalm.webp",
+          "emojis": ["☕", "🍵", "🤙"]
+        },
+        {
+          "image_file": "12_Gymnastics.webp",
+          "emojis": ["🤸", "🐩", "💪"]
+        },
+        {
+          "image_file": "13_DoubleChecking.webp",
+          "emojis": ["📰", "🔎", "🔍"]
+        },
+        {
+          "image_file": "14_CatOnTheLaptop.webp",
+          "emojis": ["🐈", "🐱", "💻"]
+        },
+        {
+          "image_file": "15_WorkingFromHomeF.webp",
+          "emojis": ["👩‍💻", "🏠", "💻"]
+        },
+        {
+          "image_file": "16_WorkingFromHomeM.webp",
+          "emojis": ["👨‍💻", "🏠", "💻"]
+        },
+        {
+          "image_file": "17_WashingHands.webp",
+          "emojis": ["✋", "💦", "🤧"]
+        },
+        {
+          "image_file": "18_DontTouchYourFace.webp",
+          "emojis": ["😷", "🤒", "🤧"]
+        },
+        {
+          "image_file": "19_SocialDistancing.webp",
+          "emojis": ["😷", "🤒", "🏠"]
+        },
+        {
+          "image_file": "20_SuperheroNurse.webp",
+          "emojis": ["👩‍⚕", "👨‍⚕️", "🤒"]
+        },
+        {
+          "image_file": "21_YouAreMyHero.webp",
+          "emojis": ["🙏", "🎉", "✨"]
+        }
+      ]
+    }
+  ],
+  "character_list": [
+    {
+      "identifier": "Cuppy",
+      "name": "Cuppy",
+      "image": "Cuppy_Main.png",
+      "description": "An expressive coffee cup character that brings all the feels! Cuppy is usually a cheerful white cup filled with brown coffee, but changes colors to match emotions - turning red when angry, grey when exhausted or sick. From giggling with joy to crying over spilled coffee, working late nights to sharing love with cookies, Cuppy captures every mood of your daily coffee-fueled adventures."
+    },
+    {
+      "identifier": "TogetherAtHome",
+      "name": "Together At Home",
+      "image": "TogetherAtHome_Main.png",
+      "description": "Stay connected while staying safe! This collection celebrates working from home, video calls with friends, and taking care of yourself and others. From air high-fives and video chats to meditation, exercise, and honoring healthcare heroes - these diverse, inclusive stickers capture the spirit of community, resilience, and love during challenging times. Perfect for checking in on loved ones and spreading positivity!"
+    },
+    {
+      "identifier": "Null",
+      "name": "Null",
+      "image": "Profile_Null.png",
+      "description": "Null"
+    }
+  ]
+}
